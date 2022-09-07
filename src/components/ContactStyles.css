@@ -1,0 +1,26 @@
+.contact form{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: auto;
+    max-width: 600px;
+}
+label{
+    color: #eee;
+}
+
+form label{
+    margin-bottom: 0.5rem;
+}
+
+form input,textarea{
+    margin-bottom: 1rem;
+    padding: 10px 18px;
+    font-size: 1.2rem;
+    font-family: 'Outfit',sans-serif;
+    background: rgba(255,255,255,0.1);
+    background-color: rgba(255,255,255,0.1);
+    color: #f4f4f4;
+    
+} 
